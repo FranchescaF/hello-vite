@@ -7,6 +7,7 @@ function App() {
     <div>
       <Header />
       <Main />
+      <Animal selectedAnimal="dog" />
     </div>
   )
 }
